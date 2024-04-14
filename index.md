@@ -1,60 +1,46 @@
-# Markdown Exploration
+# Angelo's User Page
 
 ![Image of vro cat](https://i.kym-cdn.com/entries/icons/original/000/048/255/Tole_Tole_Cat.jpg)
 
-## Styling Text Examples
-### Bold text
-**Bold text looks LOUD**
+## About Me
+Hello !! My name is **Angelo Avanzado** and I am currenlty a 4th year transfer studying computer science at UCSD.
 <br/><br/>
 
-### Italic text
-_Italics can place emphasis_
+### Words to live by 
+> ~~You either have it or you don't~~ --> All _experts_ were once _beginners_ 
 <br/><br/>
 
-### Strikethrough
-~~Strikethrough text that has been revised~~
-<br/><br/>
-
-## Quoting Text 
-> This text is a quote
-<br/><br/>
-
-## Quoting Code
-This `git commit -m "hello"` is an example quoted code
-Examples of C++ libraries using code block quotes:
+### Thoughts on Programming Languages
+I would probably have to say that up until this point `C++` is my favorite language right now. Some langauges that I have used include: `Java`, `Python`, and `System Verilog` among others.
+<br/>
+Here are some examples of C++ libraries I tend to use often:
 ```
 #include <iostream>
 #include <vector>
 #include <unordered_map>
 ```
+<br/>
+
+## Some Fun Facts About Me
+My _Top 3_ Videogames Off the Top of My Head
+1. Borderlands 2
+2. Dishonored 
+3. Terraria
 <br/><br/>
 
-## External Links
-[Monkey Type](https://monkeytype.com/) is a great website for testing your typing speed.
+Hobbies
+- Weightlifting
+- Guitar
+- Videogames
 <br/><br/>
 
-## Section Links
-This should already be put in place by the section headings !
-<br/><br/>
+I love using [Monkey Type](https://monkeytype.com/) to test out my typing speed!
 
-## Relative Links
-[This is an engaging image of a minion](./minion.PNG)
+<br/>
+## Goals
+- [ ] Complete CSE101 
+- [ ] Get an internship
+- [ ] Get a job !!
+      
+[An image that inspires me](./minion.PNG)
 <br/><br/>
-
-## Ordered and Unordered Lists
-Ranking Superheros
-1. Spiderman
-2. Batman
-3. Superman
-<br/><br/>
-
-List of CS concepts
-- Descrete Math
-- Data Structures
-- Time and Space Complexity
-<br/><br/>
-
-## Task Lists
-- [x] Complete this Lab !!
-- [ ] Get a CSE101 group
-- [ ] Finish the project
